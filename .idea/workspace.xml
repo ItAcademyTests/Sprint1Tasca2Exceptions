@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5bc4be9c-dc36-444a-ae93-239c899a5b24" name="Changes" comment="EnunciatN2Exercici1">
-      <change afterPath="$PROJECT_DIR$/src/n3Exercici1/EnunciatN3Ecercici1" afterDir="false" />
+    <list default="true" id="5bc4be9c-dc36-444a-ae93-239c899a5b24" name="Changes" comment="EnunciatN3Exercici1">
+      <change afterPath="$PROJECT_DIR$/src/n1Exercici1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/n1Exercici1/Producte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/n1Exercici1/Venda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/n1Exercici1/excepcions/VendaBuidaException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,6 +42,31 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="n1Exercici1.excepcions" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="n1Exercici1.Main" />
+      <module name="Sprint1Tasca2Exceptions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="n1Exercici1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684277461777</updated>
-      <workItem from="1684277464300" duration="1004000" />
+      <workItem from="1684277464300" duration="6109000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit. EnunciatN1Exercici1">
       <created>1684277911501</created>
@@ -55,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684278182635</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="EnunciatN3Exercici1">
+      <created>1684278538106</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684278538106</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +118,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit. EnunciatN1Exercici1" />
     <MESSAGE value="EnunciatN2Exercici1" />
-    <option name="LAST_COMMIT_MESSAGE" value="EnunciatN2Exercici1" />
+    <MESSAGE value="EnunciatN3Exercici1" />
+    <option name="LAST_COMMIT_MESSAGE" value="EnunciatN3Exercici1" />
   </component>
 </project>
