@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bc4be9c-dc36-444a-ae93-239c899a5b24" name="Changes" comment="Nivell 2 Excercici 1 fet">
-      <change afterPath="$PROJECT_DIR$/src/n2Exercici1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/n1Exercici1/excepcions/ExcepcioFilaIncorrecta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/n1Exercici1/excepcions/ExcepcioSeientIncorrecte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/n3Exercici1/Butaca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/n3Exercici1/Cine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/n3Exercici1/GestioButaques.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/n3Exercici1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/n3Exercici1/exception/ExcepcioButacaLliure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/n3Exercici1/exception/ExcepcioButacaOcupada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/n3Exercici1/exception/ExcepcioNomPersonaIncorrecte.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/n3Exercici1/EnunciatN3Ecercici1" beforeDir="false" afterPath="$PROJECT_DIR$/src/n3Exercici1/EnunciatN3Ecercici1" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,18 +47,18 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/ivand/IdeaProjects/Tecnocampus/IvanProjects/Spotify",
+    "last_opened_file_path": "C:/Users/ivand/IdeaProjects/ItAcademy/ExercicisSprint1",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="n3Exercici1" />
       <recent name="n1Exercici1.excepcions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.n2Exercici1.Main">
+  <component name="RunManager" selected="Application.n3Exercici1.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="n1Exercici1.Main" />
       <module name="Sprint1Tasca2Exceptions" />
@@ -89,8 +98,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="n3Exercici1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="n3Exercici1.Main" />
+      <module name="Sprint1Tasca2Exceptions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="n3Exercici1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.n3Exercici1.Main" />
         <item itemvalue="Application.n2Exercici1.Main" />
         <item itemvalue="Application.n2Exercici1.Main" />
         <item itemvalue="Application.Main" />
@@ -105,7 +128,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684277461777</updated>
-      <workItem from="1684277464300" duration="31115000" />
+      <workItem from="1684277464300" duration="39823000" />
+      <workItem from="1685521099593" duration="24377000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit. EnunciatN1Exercici1">
       <created>1684277911501</created>
@@ -135,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684516355961</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Nivell 2 Excercici 1 fet">
+      <created>1684689475965</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684689475965</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +202,16 @@
           <url>file://$PROJECT_DIR$/src/n2Exercici1/Main.java</url>
           <line>121</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/n3Exercici1/GestioButaques.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/n3Exercici1/Main.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
